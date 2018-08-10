@@ -6,7 +6,7 @@ organization := "Michael Shaw"
 
 compileOrder := CompileOrder.JavaThenScala
 
-scalaVersion := "2.10.0"
+scalaVersion := "2.12.6"
 
 scalacOptions ++= Seq("-unchecked", "-deprecation") // , "-optimise"
 
